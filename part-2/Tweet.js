@@ -4,7 +4,7 @@ const Tweet = (props) =>  {
            <p>{props.name}</p>
            <p>{props.username}</p>
            <p>{props.date}</p>
-           <p>{props.message}</p>
+           <p>{props.msg}</p>
        </div> 
     );
 }
